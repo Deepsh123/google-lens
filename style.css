@@ -1,0 +1,28 @@
+#title {
+    color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#image1 {
+    width: 200px;
+    height: 150px;
+}
+#google {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#vs {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
+#mobile {
+    width: 200px; 
+    height: 50px;
+    font-size: 25px;
+}
+span {
+    border-radius: 50px;
+}
+#results_tag {
+    background-color: grey;
+   border-radius: 50px;
+ box-shadow: 5px 5px 35px;
+}
